@@ -1,3 +1,4 @@
 sla man
 sla man  sla
-ok
+ola 
+mano
